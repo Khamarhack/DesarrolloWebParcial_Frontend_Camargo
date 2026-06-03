@@ -1,0 +1,33 @@
+body {
+  font-family: serif;
+  margin: 16px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 8px;
+}
+
+th, td {
+  text-align: left;
+  border: 1px solid #000;
+  padding: 4px 8px;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 8px;
+}
+
+label {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+nav a {
+  margin-right: 12px;
+}
+
+hr {
+  margin: 12px 0;
+}

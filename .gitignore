@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+
+# Cachés y artefactos de build
+.angular/
+dist/
+tmp/
+out-tsc/
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
